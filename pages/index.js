@@ -42,7 +42,6 @@ export default function Home() {
        <Resume />
       <Portfolio />
       <Faq />
-      <Client />
        <Contact />
        <Footer />
       </main>
