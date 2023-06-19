@@ -9,7 +9,6 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import Resume from '@/components/Resume/Resume';
 import About from '@/components/About/About';
 import Portfolio from '@/components/Portfolio/Portfolio';
-import Client from '@/components/Client/Client';
 import Contact from '@/components/Contact/Contact';
 import Faq from '@/components/Faq/Faq';
 import React,{useEffect} from "react";
