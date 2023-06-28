@@ -211,6 +211,22 @@ footer p{
     color: #ffffff;
 }
 
+.card {
+   
+    -webkit-animation: fadeinout 4s linear ;
+    animation: fadeinout 4s linear ;
+}
+
+@-webkit-keyframes fadeinout {
+  0% { opacity: 0; }
+  50%,100% { opacity: 1; }
+}
+
+@keyframes fadeinout {
+  0% { opacity: 0; }
+  50%,100% { opacity: 1; }
+}
+
 @media screen and (min-width: 992px) {
     #home h2 {
         font-size: 6.5rem;
