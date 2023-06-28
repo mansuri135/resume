@@ -127,6 +127,9 @@ body .progress-sm {
 .card p{
     padding: 10px;
 }
+.filterButton.active{
+    border-bottom: 1px solid #f5df4e;
+}
 /* FAQ Section */
 
 
